@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>خبرگزاری‌های سنتی</title>
+    <style>
+        body { font-family: 'Tahoma', sans-serif; text-align: center; padding: 40px; background-color: #fff; }
+        h1 { color: #d32f2f; }
+        .btn-group { display: flex; flex-direction: column; gap: 15px; max-width: 500px; margin: 30px auto; }
+        .btn { padding: 20px; text-decoration: none; color: white; border-radius: 5px; font-weight: bold; font-size: 18px; }
+        .ger { background-color: #000; }
+        .usa { background-color: #0d47a1; }
+        .can { background-color: #d32f2f; }
+        .back { margin-top: 30px; display: inline-block; color: #555; text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>خبرگزاری‌های سنتی</h1>
+    <div class="btn-group">
+        <a href="mailto:info@dpa.com,pressestelle@dpa.com,info@dw.com?subject=News%20Tip%3A%20Munich%20Rally%20Feb%2014&body=Dear%20Editor%2C%0A%0AWe%20are%20alerting%20you%20to%20a%20massive%20pro-democracy%20rally%20in%20Munich%20this%20Saturday%2C%20Feb%2014.%20This%20event%20coincides%20with%20the%20Munich%20Security%20Conference.%0A%0AFor%20visuals%20and%20scale%20reference%20(historic%20turnout)%2C%20please%20see%3A%20https%3A%2F%2Fwww.instagram.com%2Freel%2FDUPYYrJkdyB%2F%3Figsh%3DMW9lbW1iaXFyZ3oxNQ%3D%3D%0A%0ABest%20regards%2C%0A%0A[Your%20Name]%0A[Your%20Contact]" class="btn ger">خبرگزاری‌های آلمان (dpa / DW)</a>
+        <a href="mailto:info@ap.org,Editorial.Booking@thomsonreuters.com?subject=Global%20Action%20Day%20Iran&body=To%20the%20Foreign%20Desk%2C%0A%0AOn%20Saturday%2C%20Feb%2014%2C%20the%20Iranian%20diaspora%20will%20hold%20simultaneous%20rallies%20in%20Munich%2C%20Los%20Angeles%2C%20and%20Toronto.%20The%20LA%20rally%20is%20expected%20to%20be%20massive.%0A%0AEvidence%20of%20Scale%3A%20https%3A%2F%2Fwww.instagram.com%2Freel%2FDUPYYrJkdyB%2F%3Figsh%3DMW9lbW1iaXFyZ3oxNQ%3D%3D%0A%0ABest%20regards%2C%0A%0A[Your%20Name]%0A[Your%20Contact]" class="btn usa">خبرگزاری‌های آمریکا (AP / Reuters)</a>
+        <a href="mailto:editorial@thecanadianpress.com?subject=Toronto%20Rallies%20Feb%2014&body=Dear%20News%20Editor%2C%0A%0AWe%20anticipate%20one%20of%20the%20largest%20demonstrations%20of%20the%20year%20in%20Toronto%20this%20Saturday%2C%20Feb%2014.%0A%0AVideo%20reference%20for%20scale%3A%20https%3A%2F%2Fwww.instagram.com%2Freel%2FDUPYYrJkdyB%2F%3Figsh%3DMW9lbW1iaXFyZ3oxNQ%3D%3D%0A%0AThank%20you%2C%0A%0A[Your%20Name]%0A[Your%20Contact]" class="btn can">خبرگزاری کانادا (CP)</a>
+    </div>
+    <a href="index.html" class="back">بازگشت به خانه</a>
+</body>
+</html>
