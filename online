@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>رسانه‌های آنلاین</title>
+    <style>
+        body { font-family: 'Tahoma', sans-serif; text-align: center; padding: 40px; background-color: #f9f9f9; }
+        h1 { color: #00838f; }
+        .btn-group { display: flex; flex-direction: column; gap: 15px; max-width: 500px; margin: 30px auto; }
+        .btn { padding: 20px; text-decoration: none; color: white; border-radius: 5px; font-weight: bold; font-size: 18px; background-color: #333; border-left: 8px solid #00adef; }
+        .back { margin-top: 30px; display: inline-block; color: #555; text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>رسانه‌های آنلاین و استراتژیک</h1>
+    <div class="btn-group">
+        <a href="mailto:newsroom@axios.com,barak.ravid@axios.com?subject=Smart%20Brevity%20Tip%3A%20Iran%20at%20MSC2026&body=Why%20it%20matters%3A%20As%20global%20leaders%20gather%20for%20the%20Munich%20Security%20Conference%2C%20the%20Iranian%20diaspora%20is%20launching%20a%20coordinated%20Global%20Day%20of%20Action%20on%20Feb%2014.%0A%0AThe%20Big%20Picture%3A%20Simultaneous%20mega-rallies%20in%20Munich%2C%20LA%2C%20and%20Toronto%20aim%20to%20shift%20the%20geopolitical%20narrative.%0A%0AGo%20deeper%3A%20Watch%20the%20scale%20of%20movement%20here%3A%20https%3A%2F%2Fwww.instagram.com%2Freel%2FDUPYYrJkdyB%2F%3Figsh%3DMW9lbW1iaXFyZ3oxNQ%3D%3D%0A%0A-%20[Your%20Name]%0A[Your%20Contact]" class="btn">ارسال به Axios</a>
+        <a href="mailto:press@politico.com,news@semafor.com?subject=Geopolitical%20Flashpoint%3A%20Iran%20Protests%20during%20MSC%202026&body=To%20the%20Foreign%20Policy%20Desk%2C%0A%0AI%20am%20flagging%20a%20significant%20mobilization%20this%20Saturday%2C%20Feb%2014.%20While%20officials%20meet%20inside%20the%20Munich%20Security%20Conference%2C%20tens%20of%20thousands%20will%20be%20outside.%0A%0AEvidence%20of%20Scale%3A%20https%3A%2F%2Fwww.instagram.com%2Freel%2FDUPYYrJkdyB%2F%3Figsh%3DMW9lbW1iaXFyZ3oxNQ%3D%3D%0A%0ABest%20regards%2C%0A%0A[Your%20Name]%0A[Your%20Contact]" class="btn" style="border-left-color: #da2128;">ارسال به Politico / Semafor</a>
+    </div>
+    <a href="index.html" class="back">بازگشت به خانه</a>
+</body>
+</html>
