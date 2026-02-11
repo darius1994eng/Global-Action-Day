@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>سازمان‌های حقوق بشری</title>
+    <style>
+        body { font-family: 'Tahoma', sans-serif; text-align: center; padding: 40px; background-color: #fff5f5; }
+        h1 { color: #c62828; }
+        .btn-group { display: flex; flex-direction: column; gap: 15px; max-width: 500px; margin: 30px auto; }
+        .btn { padding: 20px; text-decoration: none; color: white; border-radius: 5px; font-weight: bold; font-size: 18px; background-color: #c62828; }
+        .back { margin-top: 30px; display: inline-block; color: #555; text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>سازمان‌های حقوق بشری</h1>
+    <div class="btn-group">
+        <a href="mailto:iran@amnesty.org,hrwmedia@hrw.org?subject=DOCUMENTATION%20TIP%3A%20Massive%20Human%20Rights%20Rallies%20for%20Iran%20-%20Feb%2014&body=To%20the%20Advocacy%20Team%2C%0A%0AWe%20are%20reporting%20a%20major%20human%20rights%20mobilization%20on%20Saturday%2C%20Feb%2014.%0A%0ATens%20of%20thousands%20will%20gather%20simultaneously%20in%20Munich%2C%20Los%20Angeles%2C%20and%20Toronto.%0A%0AEvidence%20of%20scale%3A%20https%3A%2F%2Fwww.instagram.com%2Freel%2FDUPYYrJkdyB%2F%3Figsh%3DMW9lbW1iaXFyZ3oxNQ%3D%3D%0A%0ABest%2C%0A%0A[Your%20Name]%0A[Your%20Contact]" class="btn">عفو بین‌الملل و دیده‌بان حقوق بشر</a>
+        <a href="mailto:info@iranhumanrights.org?subject=REPORT%3A%20Iranian%20Diaspora%20Global%20Action%20Day%20-%20Feb%2014&body=Dear%20Team%2C%0A%0AOn%20Feb%2014%2C%20the%20Iranian%20diaspora%20will%20hold%20a%20global%20day%20of%20action.%0A%0ALarge%20rallies%20are%20set%20for%20Munich%2C%20LA%2C%20and%20Toronto.%0A%0AReference%20footage%3A%20https%3A%2F%2Fwww.instagram.com%2Freel%2FDUPYYrJkdyB%2F%3Figsh%3DMW9lbW1iaXFyZ3oxNQ%3D%3D%0A%0ARegards%2C%0A%0A[Your%20Name]%0A[Your%20Contact]" class="btn" style="background-color: #2e7d32;">کمپین حقوق بشر در ایران</a>
+    </div>
+    <a href="index.html" class="back">بازگشت به خانه</a>
+</body>
+</html>
